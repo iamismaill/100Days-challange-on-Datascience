@@ -1,5 +1,4 @@
 # 100Days-challange-on-Datascience
-Committing 100Days challange on Datascience
 
 Hello folks !!
 
@@ -14,7 +13,6 @@ I want to dedicate at least 3 hours of every day for the next 100 days in studyi
 
 The main goal of my challenge is to learn , relearn , share and implemeny Data science concepts from begginer to advanced.
 
-
-Follow me :- 
-Follow my website :- where i will publish my articles  https://medium.com/@abdihakinmohamuud
+Thanks to my proffessor ... who gave me the space that i can develop my inner inspiration 
+Follow me for  my website :- where i will publish my articles  https://medium.com/@abdihakinmohamuud
  
