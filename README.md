@@ -14,6 +14,4 @@ I want to dedicate at least 3 hours of every day for the next 100 days in studyi
 The main goal of my challenge is to relearn ,share and implement Data science concepts from begginer to advanced.
 
 
-Follow me on Linkedin: 
-
 Follow me on my blog where i will post my blogs https://medium.com/@abdihakinmohamuud
