@@ -14,3 +14,8 @@
 **Day Four - 07-Nov-2021** 
 
 **Today's progress** :- I have learned more about Pandas Library (Reading data from CSV , Json & Excel files, Checking data types,Renaming , Grouping & joints & Pivot tables)~~~
+
+
+**Day Five - 09-Nov-2021** 
+
+**Today's progress** :- I have learned more about Column & Row filteration , Categorical Encoding & Splitting the dataframe ~~~
